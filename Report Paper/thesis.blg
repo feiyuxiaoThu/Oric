@@ -1,0 +1,188 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: Dedication/dedication.aux
+A level-1 auxiliary file: Declaration/declaration.aux
+A level-1 auxiliary file: Acknowledgement/acknowledgement.aux
+A level-1 auxiliary file: Abstract/abstract.aux
+A level-1 auxiliary file: Chapter1/chapter1.aux
+A level-1 auxiliary file: Chapter2/chapter2.aux
+A level-1 auxiliary file: Chapter3/chapter3.aux
+A level-1 auxiliary file: Chapter4/chapter4.aux
+The style file: apalike.bst
+A level-1 auxiliary file: Appendix1/appendix1.aux
+A level-1 auxiliary file: Appendix2/appendix2.aux
+A level-1 auxiliary file: Appendix3/appendix3.aux
+A level-1 auxiliary file: Appendix4/appendix4.aux
+Database file #1: References/references.bib
+Repeated entry---line 449 of file References/references.bib
+ : @article{Datta
+ :               ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 521 of file References/references.bib
+ :  
+ :  pages={195311.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 539 of file References/references.bib
+ :  
+ :  pages={075316.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 549 of file References/references.bib
+ :  
+ :  pages={235304.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 558 of file References/references.bib
+ :  
+ :  pages={201408.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 567 of file References/references.bib
+ :  
+ :  pages={235427.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 576 of file References/references.bib
+ :  
+ :  pages={199-20.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 585 of file References/references.bib
+ :  
+ :  pages={5135-5141.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 748 of file References/references.bib
+ : @article{Li
+ :            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1319 of file References/references.bib
+ : @article{ueno2016combo
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
+Name 1 in "Tian, Weixue, and Ronggui Yang." has a comma at the end for entry LD2
+while executing---line 1023 of file apalike.bst
+Name 1 in "Tian, Weixue, and Ronggui Yang." has a comma at the end for entry LD2
+while executing---line 1023 of file apalike.bst
+Name 1 in "Landau, Lev Davidovich, and Evgenii M. Lifshitz" has a comma at the end for entry Statisticalmechanics
+while executing---line 1023 of file apalike.bst
+Name 1 in "Landau, Lev Davidovich, and Evgenii M. Lifshitz" has a comma at the end for entry Statisticalmechanics
+while executing---line 1023 of file apalike.bst
+Name 1 in "Li, Xiaobo, and Ronggui Yang." has a comma at the end for entry Li
+while executing---line 1023 of file apalike.bst
+Name 1 in "Li, Xiaobo, and Ronggui Yang." has a comma at the end for entry Li
+while executing---line 1023 of file apalike.bst
+Name 1 in "Baltes, H. P., and E. R. Hilf." has a comma at the end for entry Baltes
+while executing---line 1023 of file apalike.bst
+Name 1 in "Baltes, H. P., and E. R. Hilf." has a comma at the end for entry Baltes
+while executing---line 1023 of file apalike.bst
+Name 1 in "Ladd, Anthony JC, Bill Moran, and William G. Hoover." has a comma at the end for entry Ladd
+while executing---line 1023 of file apalike.bst
+Name 1 in "Ladd, Anthony JC, Bill Moran, and William G. Hoover." has a comma at the end for entry Ladd
+while executing---line 1023 of file apalike.bst
+Name 1 in "Zhang, Wei, T. S. Fisher, and Natalio Mingo." has a comma at the end for entry ATF
+while executing---line 1023 of file apalike.bst
+Name 1 in "Zhang, Wei, T. S. Fisher, and Natalio Mingo." has a comma at the end for entry ATF
+while executing---line 1023 of file apalike.bst
+Name 1 in "D. Poulikakos , S. Arcidiacono , and S. Maruyama." has a comma at the end for entry MD1
+while executing---line 1023 of file apalike.bst
+Name 1 in "D. Poulikakos , S. Arcidiacono , and S. Maruyama." has a comma at the end for entry MD1
+while executing---line 1023 of file apalike.bst
+Name 1 in "Z. Zhong , X. Wang , and J. Xu." has a comma at the end for entry MD2
+while executing---line 1023 of file apalike.bst
+Name 1 in "Z. Zhong , X. Wang , and J. Xu." has a comma at the end for entry MD2
+while executing---line 1023 of file apalike.bst
+Name 1 in "S. Srinivasan , R. Miller , and E. Marotta." has a comma at the end for entry BTE2
+while executing---line 1023 of file apalike.bst
+Name 1 in "S. Srinivasan , R. Miller , and E. Marotta." has a comma at the end for entry BTE2
+while executing---line 1023 of file apalike.bst
+Name 1 in "D. Angelescu , M. Cross , and M. Roukes." has a comma at the end for entry Angelesc
+while executing---line 1023 of file apalike.bst
+Name 1 in "D. Angelescu , M. Cross , and M. Roukes." has a comma at the end for entry Angelesc
+while executing---line 1023 of file apalike.bst
+Name 1 in "R. Stevens , A. Smith , and P. Norris." has a comma at the end for entry Stevens
+while executing---line 1023 of file apalike.bst
+Name 1 in "R. Stevens , A. Smith , and P. Norris." has a comma at the end for entry Stevens
+while executing---line 1023 of file apalike.bst
+Name 1 in "A. Buldum , S. Ciraci , and C Fong." has a comma at the end for entry Buldum
+while executing---line 1023 of file apalike.bst
+Name 1 in "A. Buldum , S. Ciraci , and C Fong." has a comma at the end for entry Buldum
+while executing---line 1023 of file apalike.bst
+Name 1 in "Z. Yang, A. J. Smola, L. Song, and A. G. Wilson" has a comma at the end for entry yang2015carte
+while executing---line 1023 of file apalike.bst
+Name 1 in "Z. Yang, A. J. Smola, L. Song, and A. G. Wilson" has a comma at the end for entry yang2015carte
+while executing---line 1023 of file apalike.bst
+Name 1 in "A. Buldum , S. Ciraci , and C Fong." has a comma at the end for entry Buldum
+while executing---line 1098 of file apalike.bst
+Name 1 in "Baltes, H. P., and E. R. Hilf." has a comma at the end for entry Baltes
+while executing---line 1098 of file apalike.bst
+Warning--empty journal in mixing3
+Name 1 in "D. Angelescu , M. Cross , and M. Roukes." has a comma at the end for entry Angelesc
+while executing---line 1098 of file apalike.bst
+Name 1 in "D. Poulikakos , S. Arcidiacono , and S. Maruyama." has a comma at the end for entry MD1
+while executing---line 1098 of file apalike.bst
+Warning--can't use both volume and number fields in hua3
+Warning--empty journal in Acta
+Name 1 in "Ladd, Anthony JC, Bill Moran, and William G. Hoover." has a comma at the end for entry Ladd
+while executing---line 1098 of file apalike.bst
+Name 1 in "Landau, Lev Davidovich, and Evgenii M. Lifshitz" has a comma at the end for entry Statisticalmechanics
+while executing---line 1098 of file apalike.bst
+Name 1 in "Li, Xiaobo, and Ronggui Yang." has a comma at the end for entry Li
+while executing---line 1098 of file apalike.bst
+Name 1 in "R. Stevens , A. Smith , and P. Norris." has a comma at the end for entry Stevens
+while executing---line 1098 of file apalike.bst
+Name 1 in "S. Srinivasan , R. Miller , and E. Marotta." has a comma at the end for entry BTE2
+while executing---line 1098 of file apalike.bst
+Name 1 in "Tian, Weixue, and Ronggui Yang." has a comma at the end for entry LD2
+while executing---line 1098 of file apalike.bst
+Name 1 in "Z. Yang, A. J. Smola, L. Song, and A. G. Wilson" has a comma at the end for entry yang2015carte
+while executing---line 1098 of file apalike.bst
+Name 1 in "Z. Zhong , X. Wang , and J. Xu." has a comma at the end for entry MD2
+while executing---line 1098 of file apalike.bst
+Name 1 in "Zhang, Wei, T. S. Fisher, and Natalio Mingo." has a comma at the end for entry ATF
+while executing---line 1098 of file apalike.bst
+You've used 100 entries,
+            1935 wiz_defined-function locations,
+            1098 strings with 19335 characters,
+and the built_in function-call counts, 39327 in all, are:
+= -- 3796
+> -- 1536
+< -- 77
++ -- 541
+- -- 506
+* -- 3381
+:= -- 6852
+add.period$ -- 300
+call.type$ -- 100
+change.case$ -- 737
+chr.to.int$ -- 97
+cite$ -- 103
+duplicate$ -- 1477
+empty$ -- 2821
+format.name$ -- 684
+if$ -- 7674
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 113
+newline$ -- 502
+num.names$ -- 300
+pop$ -- 580
+preamble$ -- 1
+purify$ -- 750
+quote$ -- 0
+skip$ -- 1147
+stack$ -- 0
+substring$ -- 2896
+swap$ -- 168
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 574
+warning$ -- 3
+while$ -- 310
+width$ -- 0
+write$ -- 1288
+(There were 49 error messages)

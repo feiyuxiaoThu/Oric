@@ -1,0 +1,568 @@
+\begin{thebibliography}{}
+
+\bibitem[A.~Buldum and Fong., 2000]{Buldum}
+A.~Buldum, S.~C. and Fong., C. (2000).
+\newblock Quantum heat transfer through an atomic wire.
+\newblock {\em Phys. Condensed Matters}, 12:3349.
+
+\bibitem[Agrawal and Choudhary, 2016]{agrawal2016perspective}
+Agrawal, A. and Choudhary, A. (2016).
+\newblock Perspective: materials informatics and big data: realization of the
+  “fourth paradigm” of science in materials science.
+\newblock {\em APL Materials}, 4(5):053208.
+
+\bibitem[Ashcroft and Mermin, 1976]{Ashcroft}
+Ashcroft, N. and Mermin, N. (1976).
+\newblock {\em Solid State Physics.}
+\newblock Saunders College Publishers,Philadelphia.
+
+\bibitem[Baltes and Hilf., 1973]{Baltes}
+Baltes, H.~P. and Hilf., E.~R. (1973).
+\newblock Specific heat of lead grains.
+\newblock {\em Solid State Communications}, 12.5:369--373.
+
+\bibitem[Biersack and Ziegler, 1982]{mixing3}
+Biersack, J. and Ziegler, J.~F. (1982).
+\newblock The stopping and range of ions in solids.
+\newblock pages 122--156.
+
+\bibitem[Brandbyge et~al., 2002]{ATK2}
+Brandbyge, M., Mozos, J.-L., Ordej{\'o}n, P., Taylor, J., and Stokbro, K.
+  (2002).
+\newblock Density-functional method for nonequilibrium electron transport.
+\newblock {\em Physical Review B}, 65(16):165401.
+
+\bibitem[Brochu et~al., 2010]{brochu2010tutorial}
+Brochu, E., Cora, V.~M., and De~Freitas, N. (2010).
+\newblock A tutorial on bayesian optimization of expensive cost functions, with
+  application to active user modeling and hierarchical reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1012.2599}.
+
+\bibitem[Brockhouse, 1959]{brockhouse}
+Brockhouse, B. (1959).
+\newblock Lattice vibrations in silicon and germanium.
+\newblock {\em Physical Review Letters}, 2(6):256.
+
+\bibitem[Bulutay, 2012]{tersoffwork2}
+Bulutay, C. (2012).
+\newblock Quadrupolar spectra of nuclear spins in strained in x ga 1- x as
+  quantum dots.
+\newblock {\em Physical Review B}, 85(11):115313.
+
+\bibitem[Cahill et~al., 2014]{cahill2014nanoscale}
+Cahill, D.~G., Braun, P.~V., Chen, G., Clarke, D.~R., Fan, S., Goodson, K.~E.,
+  Keblinski, P., King, W.~P., Mahan, G.~D., Majumdar, A., et~al. (2014).
+\newblock Nanoscale thermal transport. ii. 2003--2012.
+\newblock {\em Applied Physics Reviews}, 1(1):011305.
+
+\bibitem[Carrete et~al., 2014]{carrete2014finding}
+Carrete, J., Li, W., Mingo, N., Wang, S., and Curtarolo, S. (2014).
+\newblock Finding unprecedentedly low-thermal-conductivity half-heusler
+  semiconductors via high-throughput materials modeling.
+\newblock {\em Physical Review X}, 4(1):011019.
+
+\bibitem[Chandler, 1987]{chandler}
+Chandler, D. (1987).
+\newblock Introduction to modern statistical mechanics.
+\newblock {\em Introduction to Modern Statistical Mechanics, by David Chandler,
+  pp. 288. Foreword by David Chandler. Oxford University Press, Sep 1987.
+  ISBN-10: 0195042778. ISBN-13: 9780195042771}, page 288.
+
+\bibitem[Chen, 2008]{ChenRenkun}
+Chen, Renkun, e.~a. (2008).
+\newblock Thermal conductance of thin silicon nanowires.
+\newblock {\em Physical review letters}, 101.10:105501.
+
+\bibitem[Chen, 1998]{Super}
+Chen, G. (1998).
+\newblock Thermal conductivity and ballistic-phonon transport in the
+  cross-plane direction of superlattices.
+\newblock {\em Physical Review B}, 57(23):14958.
+
+\bibitem[Chen et~al., 2005]{chen2005monte}
+Chen, Y., Li, D., Lukes, J.~R., and Majumdar, A. (2005).
+\newblock Monte carlo simulation of silicon nanowire thermal conductivity.
+\newblock {\em Journal of Heat Transfer}, 127(10):1129--1137.
+
+\bibitem[D.~Angelescu and Roukes., 1998]{Angelesc}
+D.~Angelescu, M.~C. and Roukes., M. (1998).
+\newblock Heat transport in mesoscopic systems.
+\newblock {\em Superlattices Microstruct}, 23:678.
+
+\bibitem[D.~Poulikakos and Maruyama., 2003]{MD1}
+D.~Poulikakos, S.~A. and Maruyama., S. (2003).
+\newblock Molecular dynamics simulation in nanoscale heat transfer: A review.
+\newblock {\em Microscale Thermophys. Eng}, 7:181.
+
+\bibitem[Datta, 2005]{Datta}
+Datta, S. (2005).
+\newblock {\em Quantum Transport: Atom to Transistor.}
+\newblock Cambridge University Press , New York.
+
+\bibitem[de~Brito~Mota et~al., 1998]{mixing1}
+de~Brito~Mota, F., Justo, J., and Fazzio, A. (1998).
+\newblock Structural properties of amorphous silicon nitride.
+\newblock {\em Physical Review B}, 58(13):8323.
+
+\bibitem[Desai et~al., 2016]{Desai}
+Desai, S.~B., Madhvapathy, S.~R., Sachid, A.~B., Llinas, J.~P., Wang, Q., Ahn,
+  G.~H., Pitner, G., Kim, M.~J., Bokor, J., Hu, C., et~al. (2016).
+\newblock Mos2 transistors with 1-nanometer gate lengths.
+\newblock {\em Science}, 354(6308):99--102.
+
+\bibitem[Dhar and Roy, 2006]{dhar2006heat}
+Dhar, A. and Roy, D. (2006).
+\newblock Heat transport in harmonic lattices.
+\newblock {\em Journal of Statistical Physics}, 125(4):801--820.
+
+\bibitem[Flik et~al., 1992]{Flik}
+Flik, M., Choi, B., and Goodson, K. (1992).
+\newblock Heat transfer regimes in microstructures.
+\newblock {\em ASME J. Heat Transfer}, 114:666--674.
+
+\bibitem[Griebel and Hamaekers, 2004]{ATK4}
+Griebel, M. and Hamaekers, J. (2004).
+\newblock Molecular dynamics simulations of the elastic moduli of
+  polymer--carbon nanotube composites.
+\newblock {\em Computer methods in applied mechanics and engineering},
+  193(17):1773--1788.
+
+\bibitem[Griebel et~al., 2007]{ATK1}
+Griebel, M., Knapek, S., and Zumbusch, G. (2007).
+\newblock Numerical simulation in molecular dynamics: Numerics, algorithms,
+  parallelization, applications (texts in computational science and
+  engineering).
+\newblock {\em Springer, September}, 2:1--3.
+
+\bibitem[Han and Bester, 2011]{teroffwork3}
+Han, P. and Bester, G. (2011).
+\newblock Interatomic potentials for the vibrational properties of iii-v
+  semiconductor nanostructures.
+\newblock {\em Physical Review B}, 83(17):174304.
+
+\bibitem[Harris, 2004]{Bolt}
+Harris, S. (2004).
+\newblock {\em An introduction to the theory of the Boltzmann equation}.
+\newblock Courier Corporation.
+
+\bibitem[Hassan, 2009]{IC}
+Hassan, Zyad, e.~a. (2009).
+\newblock Multiscale thermal analysis for nanometer-scale integrated circuits.
+\newblock {\em IEEE Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems}, 28.6:860--873.
+
+\bibitem[Hochbaum, 2008]{Hochbaum1}
+Hochbaum, Allon~I., e.~a. (2008).
+\newblock Enhanced thermoelectric performance of rough silicon nanowires.
+\newblock {\em Nature}, 451(7175):163--167.
+
+\bibitem[H{\"o}gele et~al., 2012]{tersoffwork1}
+H{\"o}gele, A., Kroner, M., Latta, C., Claassen, M., Carusotto, I., Bulutay,
+  C., and Imamoglu, A. (2012).
+\newblock Dynamic nuclear spin polarization in the resonant laser excitation of
+  an ingaas quantum dot.
+\newblock {\em Physical review letters}, 108(19):197403.
+
+\bibitem[Holland, 1963]{hollandanalysis}
+Holland, M. (1963).
+\newblock Analysis of lattice thermal conductivity.
+\newblock {\em Physical Review}, 132(6):2461.
+
+\bibitem[Howell et~al., 2010]{Thermal}
+Howell, J.~R., Menguc, M.~P., and Siegel, R. (2010).
+\newblock {\em Thermal radiation heat transfer}.
+\newblock CRC press.
+
+\bibitem[Hsiao et~al., 2013]{hsiao2013observation}
+Hsiao, T.-K., Chang, H.-K., Liou, S.-C., Chu, M.-W., Lee, S.-C., and Chang,
+  C.-W. (2013).
+\newblock Observation of room-temperature ballistic thermal conduction
+  persisting over 8.3 [micro] m in sige nanowires.
+\newblock {\em Nature nanotechnology}, 8(7):534--538.
+
+\bibitem[Hua and Cao, 2014]{hua1}
+Hua, Y.-C. and Cao, B.-Y. (2014).
+\newblock Phonon ballistic-diffusive heat conduction in silicon nanofilms by
+  monte carlo simulations.
+\newblock {\em International Journal of Heat and Mass Transfer}, 78:755--759.
+
+\bibitem[Hua and Cao, 2016a]{hua2}
+Hua, Y.-C. and Cao, B.-Y. (2016a).
+\newblock Ballistic-diffusive heat conduction in multiply-constrained
+  nanostructures.
+\newblock {\em International Journal of Thermal Sciences}, 101:126--132.
+
+\bibitem[Hua and Cao, 2016b]{hua0}
+Hua, Y.-C. and Cao, B.-Y. (2016b).
+\newblock The effective thermal conductivity of ballistic--diffusive heat
+  conduction in nanostructures with internal heat source.
+\newblock {\em International Journal of Heat and Mass Transfer}, 92:995--1003.
+
+\bibitem[Hua and Cao, 2016c]{hua3}
+Hua, Y.-C. and Cao, B.-Y. (2016c).
+\newblock Transient in-plane thermal transport in nanofilms with internal
+  heating.
+\newblock In {\em Proc. R. Soc. A}, volume 472, page 20150811. The Royal
+  Society.
+
+\bibitem[Hua and Cao, 2017]{hua2017slip}
+Hua, Y.-C. and Cao, B.-Y. (2017).
+\newblock Slip boundary conditions in ballistic--diffusive heat transport in
+  nanostructures.
+\newblock {\em Nanoscale and Microscale Thermophysical Engineering},
+  21(3):159--176.
+
+\bibitem[Hua et~al., 2013]{Acta}
+Hua, Y.-C., Dong, Y., and Cao, B.-Y. (2013).
+\newblock Monte carlo simulation of phonon ballistic diffusive heat conduction
+  in silicon nanofilm.
+
+\bibitem[Jiaung and Ho, 2008]{LB}
+Jiaung, W.-S. and Ho, J.-R. (2008).
+\newblock Lattice-boltzmann modeling of phonon hydrodynamics.
+\newblock {\em Physical Review E}, 77(6):066710.
+
+\bibitem[Johnson et~al., 2013]{Jo}
+Johnson, J.~A., Maznev, A., Cuffe, J., Eliason, J.~K., Minnich, A.~J., Kehoe,
+  T., Torres, C. M.~S., Chen, G., and Nelson, K.~A. (2013).
+\newblock Direct measurement of room-temperature nondiffusive thermal transport
+  over micron distances in a silicon membrane.
+\newblock {\em Physical review letters}, 110(2):025901.
+
+\bibitem[Jones, 2001]{jones2001taxonomy}
+Jones, D.~R. (2001).
+\newblock A taxonomy of global optimization methods based on response surfaces.
+\newblock {\em Journal of global optimization}, 21(4):345--383.
+
+\bibitem[Ju et~al., 2017]{ju2017designing}
+Ju, S., Shiga, T., Feng, L., Hou, Z., Tsuda, K., and Shiomi, J. (2017).
+\newblock Designing nanostructures for phonon transport via bayesian
+  optimization.
+\newblock {\em Physical Review X}, 7(2):021024.
+
+\bibitem[Kaviany, 2014]{HT}
+Kaviany, M. (2014).
+\newblock {\em Heat transfer physics}.
+\newblock Cambridge University Press.
+
+\bibitem[Kazan, 2010]{kazan}
+Kazan, M., e.~a. (2010).
+\newblock Thermal conductivity of silicon bulk and nanowires: Effects of
+  isotopic composition, phonon confinement, and surface roughness.
+\newblock {\em Journal of Applied Physics}, 107.8:083503.
+
+\bibitem[Klitsner et~al., 1988]{KL}
+Klitsner, T., VanCleve, J., Fischer, H.~E., and Pohl, R. (1988).
+\newblock Phonon radiative heat transfer and surface scattering.
+\newblock {\em Physical Review B}, 38(11):7576.
+
+\bibitem[Lacroix et~al., 2005]{monte1}
+Lacroix, D., Joulain, K., and Lemonnier, D. (2005).
+\newblock Monte carlo transient phonon transport in silicon and germanium at
+  nanoscales.
+\newblock {\em Physical Review B}, 72(6):064305.
+
+\bibitem[Ladd and Hoover., 1986]{Ladd}
+Ladd, Anthony~JC, B.~M. and Hoover., W.~G. (1986).
+\newblock Lattice thermal conductivity: A comparison of molecular dynamics and
+  anharmonic lattice dynamics.
+\newblock {\em Physical Review B}, 34.8:5058.
+
+\bibitem[Landau and Binder, 2014]{Lan}
+Landau, D.~P. and Binder, K. (2014).
+\newblock {\em A guide to Monte Carlo simulations in statistical physics}.
+\newblock Cambridge university press.
+
+\bibitem[Landau and Lifshitz, 1969]{Statisticalmechanics}
+Landau, L.~D. and Lifshitz, E.~M. (1969).
+\newblock {\em Statistical Physics: V. 5: Course of Theoretical Physics.}
+\newblock Pergamon press.
+
+\bibitem[Li and Yang., 2012]{Li}
+Li, X. and Yang., R. (2012).
+\newblock Effect of lattice mismatch on phonon transmission and interface
+  thermal conductance across dissimilar material interfaces.
+\newblock {\em Physical Review B}, 86.5:054305.
+
+\bibitem[Li and Yang, 2012]{li2012size}
+Li, X. and Yang, R. (2012).
+\newblock Size-dependent phonon transmission across dissimilar material
+  interfaces.
+\newblock {\em Journal of Physics: Condensed Matter}, 24(15):155302.
+
+\bibitem[Little., 1959]{AMM}
+Little., W. (1959).
+\newblock The transport of heat between dissimilar solids at low temperatur.
+\newblock {\em Can. J. Phys}, 37:334.
+
+\bibitem[Liu et~al., 2014]{tersoffwork4}
+Liu, Y.-Y., Zhou, W.-X., Tang, L.-M., and Chen, K.-Q. (2014).
+\newblock An important mechanism for thermal rectification in graded nanowires.
+\newblock {\em Applied Physics Letters}, 105(20):203111.
+
+\bibitem[L{\"u} et~al., 2002]{Lu}
+L{\"u}, X., Shen, W., and Chu, J. (2002).
+\newblock Size effect on the thermal conductivity of nanowires.
+\newblock {\em Journal of applied physics}, 91(3):1542--1552.
+
+\bibitem[Luckyanova, 2012]{Luckyanova}
+Luckyanova, Maria~N., e.~a. (2012).
+\newblock Coherent phonon heat conduction in superlattices.
+\newblock {\em Science}, 338.6109:936--939.
+
+\bibitem[Mazumdar and Majumdar., 2001]{BTE1}
+Mazumdar, S. and Majumdar., A. (2001).
+\newblock Monte carlo study of phonon transport in solid thin films including
+  dispersion and polarization.
+\newblock {\em J. Heat Transfer}, 123:749.
+
+\bibitem[McGaughey et~al., 2011]{Amon}
+McGaughey, A.~J., Landry, E.~S., Sellan, D.~P., and Amon, C.~H. (2011).
+\newblock Size-dependent model for thin film and nanowire thermal conductivity.
+\newblock {\em Applied Physics Letters}, 99(13):131904.
+
+\bibitem[Mingo and Broido, 2005]{mingo2005carbon}
+Mingo, N. and Broido, D. (2005).
+\newblock Carbon nanotube ballistic thermal conductance and its limits.
+\newblock {\em Physical review letters}, 95(9):096105.
+
+\bibitem[Montroll, 1950]{Montroll}
+Montroll, E.~W. (1950).
+\newblock Size effect in low temperature heat capacities.
+\newblock {\em The Journal of Chemical Physics}, 18.2:183--185.
+
+\bibitem[Murthy, 2004]{New}
+Murthy, K. (2004).
+\newblock {\em Monte Carlo Methods in Statistical Physics}.
+\newblock Universities Press.
+
+\bibitem[Ozpineci and Ciraci, 2001]{ozpineci2001quantum}
+Ozpineci, A. and Ciraci, S. (2001).
+\newblock Quantum effects of thermal conductance through atomic chains.
+\newblock {\em Physical Review B}, 63(12):125415.
+
+\bibitem[Powell et~al., 2007]{TeroffIIIV}
+Powell, D., Migliorato, M., and Cullis, A. (2007).
+\newblock Optimized tersoff potential parameters for tetrahedrally bonded iii-v
+  semiconductors.
+\newblock {\em Physical Review B}, 75(11):115202.
+
+\bibitem[R.~Stevens and Norris., 2005]{Stevens}
+R.~Stevens, A.~S. and Norris., P. (2005).
+\newblock Measurement of thermal boundary conductance of a series of
+  metal-dielectric interfaces by the transient thermoreflectance technique .
+\newblock {\em J. Heat Transfer}, 127:315.
+
+\bibitem[Rahimi and Recht, 2008]{rahimi2008random}
+Rahimi, A. and Recht, B. (2008).
+\newblock Random features for large-scale kernel machines.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1177--1184.
+
+\bibitem[Rajan, 2015]{rajan2015materials}
+Rajan, K. (2015).
+\newblock Materials informatics: The materials “gene” and big data.
+\newblock {\em Annual Review of Materials Research}, 45:153--169.
+
+\bibitem[Randrianalisoa and Baillis, 2008]{monte2}
+Randrianalisoa, J. and Baillis, D. (2008).
+\newblock Monte carlo simulation of steady-state microscale phonon heat
+  transport.
+\newblock {\em Journal of Heat Transfer}, 130(7):072404.
+
+\bibitem[Rapaport et~al., 1996]{MD}
+Rapaport, D.~C., Blumberg, R.~L., McKay, S.~R., Christian, W., et~al. (1996).
+\newblock The art of molecular dynamics simulation.
+\newblock {\em Computers in Physics}, 10(5):456--456.
+
+\bibitem[Rasmussen and Williams, 2006]{rasmussen2006gaussian}
+Rasmussen, C.~E. and Williams, C.~K. (2006).
+\newblock {\em Gaussian processes for machine learning}, volume~1.
+\newblock MIT press Cambridge.
+
+\bibitem[Ravichandran, 2014]{Ravichandran}
+Ravichandran, Jayakanth, e.~a. (2014).
+\newblock Crossover from incoherent to coherent phonon scattering in epitaxial
+  oxide superlattices.
+\newblock {\em Nature materials}, 13.2:168.
+
+\bibitem[S.~Srinivasan and Marotta., 2004]{BTE2}
+S.~Srinivasan, R.~M. and Marotta., E. (2004).
+\newblock Parallel computation of the boltzmann transport equation for
+  microscale heat transfer in multilayered thin films.
+\newblock {\em Numer. Heat Transfer B}, 46:31 – 58.
+
+\bibitem[Sadasivam, 2014]{ReviewATF}
+Sadasivam, Sridhar, e.~a. (2014).
+\newblock The atomistic green’s function method for interfacial phonon
+  transport.
+\newblock {\em Ann. Rev. Heat Transfer}, 17:89--145.
+
+\bibitem[Schelling et~al., 2002]{schelling2002phonon}
+Schelling, P., Phillpot, S., and Keblinski, P. (2002).
+\newblock Phonon wave-packet dynamics at semiconductor interfaces by
+  molecular-dynamics simulation.
+\newblock {\em Applied Physics Letters}, 80(14):2484--2486.
+
+\bibitem[Snoek et~al., 2012]{snoek2012practical}
+Snoek, J., Larochelle, H., and Adams, R.~P. (2012).
+\newblock Practical bayesian optimization of machine learning algorithms.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2951--2959.
+
+\bibitem[Soler et~al., 2002]{ATK3}
+Soler, J.~M., Artacho, E., Gale, J.~D., Garc{\'\i}a, A., Junquera, J.,
+  Ordej{\'o}n, P., and S{\'a}nchez-Portal, D. (2002).
+\newblock The siesta method for ab initio order-n materials simulation.
+\newblock {\em Journal of Physics: Condensed Matter}, 14(11):2745.
+
+\bibitem[Stoner et~al., 1992]{stoner1992measurements}
+Stoner, R., Maris, H., Anthony, T., and Banholzer, W. (1992).
+\newblock Measurements of the kapitza conductance between diamond and several
+  metals.
+\newblock {\em Physical Review Letters}, 68(10):1563.
+
+\bibitem[Sun and Murthy, 2010]{sun2010molecular}
+Sun, L. and Murthy, J.~Y. (2010).
+\newblock Molecular dynamics simulation of phonon scattering at
+  silicon/germanium interfaces.
+\newblock {\em Journal of Heat Transfer}, 132(10):102403.
+
+\bibitem[Swartz and Pohl., 1989]{DMM}
+Swartz, E. and Pohl., R. (1989).
+\newblock Thermal boundary resistance .
+\newblock {\em Rev. Mod. Phys}, 61:605.
+
+\bibitem[Tersoff, 1988]{tersoff1988new}
+Tersoff, J. (1988).
+\newblock New empirical approach for the structure and energy of covalent
+  systems.
+\newblock {\em Physical Review B}, 37(12):6991.
+
+\bibitem[Tersoff, 1989]{mixing2}
+Tersoff, J. (1989).
+\newblock Modeling solid-state chemistry: Interatomic potentials for
+  multicomponent systems.
+\newblock {\em Physical Review B}, 39(8):5566.
+
+\bibitem[Tian and Yang., 2007]{LD2}
+Tian, W. and Yang., R. (2007).
+\newblock Effect of interface scattering on phonon thermal conductivity
+  percolation in random nanowire composites.
+\newblock {\em Applied physics letters}, 90.26:263105.
+
+\bibitem[Toberer et~al., 2012]{Dames}
+Toberer, E.~S., Baranowski, L.~L., and Dames, C. (2012).
+\newblock Advances in thermal conductivity.
+\newblock {\em Annual Review of Materials Research}, 42:179--209.
+
+\bibitem[Tsao et~al., 2015]{LEDblue}
+Tsao, J.~Y., Han, J., Haitz, R.~H., and Pattison, P.~M. (2015).
+\newblock The blue led nobel prize: Historical context, current scientific
+  understanding, human benefit.
+\newblock {\em Annalen der Physik}, 527(5-6).
+
+\bibitem[Tsao and Waide, 2010]{LEDworld}
+Tsao, J.~Y. and Waide, P. (2010).
+\newblock The world's appetite for light: empirical data and trends spanning
+  three centuries and six continents.
+\newblock {\em Leukos}, 6(4):259--281.
+
+\bibitem[Ueno et~al., 2016]{ueno2016combo}
+Ueno, T., Rhone, T.~D., Hou, Z., Mizoguchi, T., and Tsuda, K. (2016).
+\newblock Combo: an efficient bayesian optimization library for materials
+  science.
+\newblock {\em Materials Discovery}, 4:18--21.
+
+\bibitem[Volz, 2009a]{VolzSeba}
+Volz, Sebastian, e. (2009a).
+\newblock {\em Thermal nanosystems and nanomaterials.}
+\newblock Springer.
+
+\bibitem[Volz, 1996]{Volz2}
+Volz, Sebastian, e.~a. (1996).
+\newblock Transient fourier-law deviation by molecular dynamics in solid argon.
+\newblock {\em Physical Review B}, 54.1:340.
+
+\bibitem[Volz, 2016]{Volz1}
+Volz, Sebastian, e.~a. (2016).
+\newblock Heat conduction in nanostructured materials.
+\newblock {\em ournal of Thermal Science and Technology}, 11.1.
+
+\bibitem[Volz, 2009b]{mingolbook}
+Volz, S. (2009b).
+\newblock {\em Thermal nanosystems and nanomaterials}, volume 118.
+\newblock Springer Science \& Business Media.
+
+\bibitem[Ward, 2009]{Ward}
+Ward, Alistair, e.~a. (2009).
+\newblock Ab initio theory of the lattice thermal conductivity in diamond.
+\newblock {\em Physical Review B}, 80.12:125203.
+
+\bibitem[Wong et~al., 2011]{wongMC}
+Wong, B.~T., Francoeur, M., and Meng{\"u}{\c{c}}, M.~P. (2011).
+\newblock A monte carlo simulation for phonon transport within silicon
+  structures at nanoscales with heat generation.
+\newblock {\em International Journal of Heat and Mass Transfer},
+  54(9):1825--1838.
+
+\bibitem[Yang and Chen, 2004]{yang2004thermal}
+Yang, R. and Chen, G. (2004).
+\newblock Thermal conductivity modeling of periodic two-dimensional
+  nanocomposites.
+\newblock {\em Physical Review B}, 69(19):195316.
+
+\bibitem[Yang et~al., 2005]{yang2005thermal}
+Yang, R., Chen, G., and Dresselhaus, M.~S. (2005).
+\newblock Thermal conductivity of simple and tubular nanowire composites in the
+  longitudinal direction.
+\newblock {\em Physical Review B}, 72(12):125418.
+
+\bibitem[Z.~Yang and Wilson, 2015]{yang2015carte}
+Z.~Yang, A. J.~Smola, L.~S. and Wilson, A.~G. (2015).
+\newblock A la carte–learning fast kernels, in proceedings of the eighteenth
+  international conference on artificial intelligence and statistics.
+\newblock In {\em Journal of Machine Learning Research: Workshop and Conference
+  Proceedings, San Diego, CA}, pages 1098--1106.
+
+\bibitem[Z.~Zhong and Xu., 2004]{MD2}
+Z.~Zhong, X.~W. and Xu., J. (2004).
+\newblock Equilibrium molecular dynamics study of phonon thermal transport in
+  nanomaterials.
+\newblock {\em Numer. Heat Transfer B}, 17:429 – 446.
+
+\bibitem[Zhan et~al., 2017]{zhan2017prediction}
+Zhan, T., Fang, L., and Xu, Y. (2017).
+\newblock Prediction of thermal boundary resistance by the machine learning
+  method.
+\newblock {\em Scientific Reports}, 7.
+
+\bibitem[Zhang and Mingo., 2007]{ATF}
+Zhang, Wei, T. S.~F. and Mingo., N. (2007).
+\newblock The atomistic green's function method: An efficient simulation
+  approach for nanoscale phonon transport.
+\newblock {\em Numerical Heat Transfer, Part B: Fundamentals}, 51.4:333--349.
+
+\bibitem[Zhao and Freund, 2005]{zhao2005lattice}
+Zhao, H. and Freund, J. (2005).
+\newblock Lattice-dynamical calculation of phonon scattering at ideal si--ge
+  interfaces.
+\newblock {\em Journal of applied physics}, 97(2):024903.
+
+\bibitem[Zhao and Freund, 2009]{zhao2009phonon}
+Zhao, H. and Freund, J.~B. (2009).
+\newblock Phonon scattering at a rough interface between two fcc lattices.
+\newblock {\em Journal of Applied Physics}, 105(1):013515.
+
+\bibitem[Ziman, 1960]{zimanphonons}
+Ziman, J.~M. (1960).
+\newblock {\em Electrons and phonons: the theory of transport phenomena in
+  solids.}
+\newblock Oxford university press.
+
+\bibitem[Ziman, 1972]{Ziman}
+Ziman, J.~M. (1972).
+\newblock {\em Principles of the Theory of Solids}.
+\newblock Cambridge university press.
+
+\end{thebibliography}

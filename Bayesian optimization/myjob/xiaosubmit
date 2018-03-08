@@ -1,0 +1,30 @@
+#!/bin/sh
+
+#PBS -l nodes=1:ppn=12
+#PBS -N work_test
+
+export OMP_NUM_THREADS=1
+export MKL_NUM_THREADS=1
+export OMP_DYNAMIC=FALSE
+
+cd $PBS_O_WORKDIR
+
+HOSTNAME=`hostname`
+echo $HOSTNAME > node_info.txt
+
+dir=/work/xiao; [ ! -e $dir ] && mkdir $dir
+tdir=`date '+%y%m%d%H%M%S'`
+
+echo $tdir >> node_info.txt
+
+cd $dir
+mkdir $tdir
+cd $tdir
+
+python /home/xiao/combo/isotropic.py>xiaorun.log
+
+
+
+rsync -r ./ $PBS_O_WORKDIR
+cd ../
+rm -r $tdir

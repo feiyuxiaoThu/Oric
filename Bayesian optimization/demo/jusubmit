@@ -1,0 +1,14 @@
+#!/bin/sh
+#QSUB -queue B144cpu
+#QSUB -node 72
+#QSUB -mpi 1728
+#QSUB -omp 1
+#QSUB -place pack
+#QSUB -over false
+
+#PBS -l walltime=11:59:00
+#PBS -N 14AA
+
+cd $PBS_O_WORKDIR
+
+python /home/xiao/folder/phonons.py >xiaorun.log

@@ -1,0 +1,37 @@
+\nomenclatureentry{ag@[{g}]\begingroup uncoupled green's function matrix\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aG@[{G}]\begingroup green's function matrix\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\hbar$@[{$\hbar$}]\begingroup reduced Planck constant(=$h/2\pi$)\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a\textbf{H}@[{\textbf{H}}]\begingroup harmonic matrix\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{ai@[{i}]\begingroup unitary imaginary number\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a\textbf{I}@[{\textbf{I}}]\begingroup identity matrix\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aJ@[{J}]\begingroup energy flux\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$k_B$@[{$k_B$}]\begingroup Boltzmann constant(=1.38 $\times$ $10^{-23}$ kg/$s^2$k)\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aM@[{M}]\begingroup atomic mass\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aS@[{S}]\begingroup source matrix\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{at@[{t}]\begingroup time\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{ai@[{i}]\begingroup unitary imaginary number\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aA@[{A}]\begingroup matrix for convenience\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\Gamma$@[{$\Gamma$}]\begingroup matrix for convenience\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\tilde{u}$@[{$\tilde{u}$}]\begingroup column vector consisting of vibrational degrees of freedom\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aU@[{U}]\begingroup interatomic potential\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\delta$@[{$\delta$}]\begingroup a small number corresponding to phonon energy dissipation in contacts\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\sigma$@[{$\sigma$}]\begingroup thermal conductance (W/K)\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\omega$@[{$\omega$}]\begingroup angular frequency(rad/s)\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\sum$@[{$\sum$}]\begingroup self-energy matrix\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\tau$@[{$\tau$}]\begingroup matrix representing interactions\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\phi$@[{$\phi$}]\begingroup column vector representing vibrational degrees of freedom in either contact\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\chi$@[{$\chi$}]\begingroup column vector representing the change to the original vector $\phi^R$ after contacts and the device are connected\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\psi$@[{$\psi$}]\begingroup column vector representing vibrational degrees of freedom in the connected device\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aLCB@[{LCB}]\begingroup left contact bulk region\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aLC@[{LC}]\begingroup left contact region\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aLD@[{LD}]\begingroup left device region\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aRCB@[{RCB}]\begingroup right contact bulk region\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aRC@[{RC}]\begingroup right contact region\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aRD@[{RD}]\begingroup right device region\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{ad@[{d}]\begingroup device region including LD,RD and D\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{am@[{m}]\begingroup degree of freedom running index\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{ap@[{p}]\begingroup matrix row index, or the index of a degree of freedom\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aq@[{q}]\begingroup matrix row index, or the index of a degree of freedom\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{aR@[{R}]\begingroup disconnected state\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a*@[{*}]\begingroup complex conjugate of a matrix\nomeqref {3.24}|nompageref}{31}
+\nomenclatureentry{a$\dag$@[{$\dag$}]\begingroup conjugate transpose of a matrix\nomeqref {3.24}|nompageref}{31}

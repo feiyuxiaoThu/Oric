@@ -1,0 +1,8 @@
+PWD D:/Document/Japan/Paper/latex/Appendix3
+INPUT d:/Software/Code/texlive2017/texmf.cnf
+INPUT d:/Software/Code/texlive2017/texmf-dist/web2c/texmf.cnf
+INPUT d:/Software/Code/texlive2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT ./appendix3.tex
+OUTPUT appendix3.log
+INPUT d:/Software/Code/texlive2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT d:/Software/Code/texlive2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

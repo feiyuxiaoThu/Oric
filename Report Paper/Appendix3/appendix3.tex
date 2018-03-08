@@ -1,0 +1,81 @@
+\chapter{Tersoff Potential and Mixing rules}
+\graphicspath{{Appendix3/}}
+\section*{Tersoff type potentials}
+As we have mentioned in the AGF method part, we need to know the position information and interaction. The former can be specified by creating and optimizing the device, but the latter must be given by some ways.\\
+ Although the first principle calculations have been widely used in atomic simulations, we still choose the Tersoff type potential for the following reasons:
+\begin{itemize}
+\item The cost to perform first principle calculations can be quite big and even unacceptable even though several accelerating methods, for example, parallel computing can be used, which results that the first principle calculations are mainly used for very basic(which usually means 'small') systems for fundamental physics study.
+\item Because we mainly focus on the III-V semi-conductors, the tersoff potential and its developments can be quite suitable for describing the interaction.(Because a large number of MD or other type of simulations have been done according to tersoff potential and many nice results have been gained)
+\end{itemize}
+In general, Tersoff type potentials are bond-order potentials\cite{tersoff1988new}.
+They are typically used to describe covalent crystals, such as silicon, carbon, or germanium at the beginning. The potential includes two-body and three-body terms. Below we give a form of the Tersoff type potential:
+\begin{equation*}
+V= \sum_{i < j} f_c(r_{ij})(\chi_{R_{ij}} f_R(r_{ij})+b_{ij}f_A(r_{ij}))
+\end{equation*}
+which is a sum of repulsive and attractive terms
+\begin{equation*}
+f_R(r_{ij})=A_{ij}exp(-\lambda_{ij} r_{ij})
+\end{equation*}
+and
+\begin{equation*}
+f_A(r_{ij})=-B_{ij}exp(-\mu_{ij} r_{ij})
+\end{equation*}
+as well as a cutoff function
+\begin{equation*}
+f_C(r_{ij})=\left\{\begin{array}{ll}
+1 & r_{ij}<R_{ij},\\
+\frac{1}{2}+\frac{1}{2}cos(\pi \frac{r_{ij}-R_{ij}}{S_{ij}-R_{ij}}) &
+R_{ij}<r_{ij}<S_{ij},\\
+0 & r_{ij}>S_{ij}
+\end{array}\right.
+\end{equation*}
+The term 
+\begin{equation*}
+b_{ij}=\frac{\chi_{ij}}{(1+ \beta^n \zeta_{ij}^n)^{1/2n}}
+\end{equation*}
+with
+\begin{equation*}
+\zeta_{ij}= \sum_{k \neq i,j} f_{C}(r_{ik})\omega_{ijk}exp(\alpha_{ijk}^{m_{ijk}} (r_{ij}-r_{ik})^{m_{ijk}})g(\theta_{ijk})
+\end{equation*}
+and
+\begin{equation*}
+g_{ijk}(\theta_{ijk})=1+\frac{c_{ik}^2}{d_{ik}^2}-\frac{c_{ik}^2}{[d_{ik}^2+(h- cos(\theta_{ijk}))^2]}
+\end{equation*}
+represents the bond order of the bond between atoms $i$ and $j$.
+\section*{Mixing rule}
+For more than one particle type, the following mixing rules\cite{mixing1,mixing2} are available:\\
+1.$$
+\lambda_{ij}=\frac{\lambda_i+\lambda_j}{2},\mu_{ij}=\frac{\mu_i+\mu_j}{2},A_{ij}=\sqrt{A_i A_j}
+$$
+$$
+B_{ij}=\sqrt{B_i B_j},R_{ij}=\sqrt{R_i R_j}, and S_{ij}=\sqrt{S_i S_j},
+$$
+2.$$
+\beta_{ij}=\beta_i,n_{ij}=n_i,c_{ij}=c_i,d_{ij}=d_i, and h_{ij}=h_i
+$$
+3.$$
+\omega_{ijk}=\omega_{ij},\alpha_{ijk}=\alpha_{ij}, and m_{ijk}=m_{ij}
+$$
+For high-energy simulations one can modify the repulsive behavior by mixing the Tersoff potential with the universal Ziegler-Biersack-Littmark repulsive potential\cite{mixing3}
+$V^{ZBL}$\\
+In this case,two mixing rules are available:
+\begin{itemize}
+\item Type 1
+$$
+\bar{f}_R(r)=(1-F(r))V^{ZBL}(r)+F(r)f_R(r)
+$$
+\item Type 2
+$$
+\bar{V}_{ij}(r)=(1-F(r))V^{ZBL}(r)+F(r)V_{ij}(r)
+$$
+\end{itemize}
+where the $F(r)$ is the Dirac-Fermi Function:
+$$
+F(r)=\frac{1}{1+exp(-b_f(r-r_f)}
+$$
+
+
+
+
+
+
